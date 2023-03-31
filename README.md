@@ -58,6 +58,6 @@ Reveja a seção: [`código do Markdown`](https://markdown.net.br).
 [Github]: <https://github.com/Blackemage> "Blackemage - Github"  
 [Solo]: <https://wallpapercave.com/wp/wp5460419.jpg> "Solo"  
 
-Para saber mais você pode consultar esses sites: [Github](https://github.com/Blackemage "Blackemage - Github")
+Para saber mais você pode consultar esses sites: [Github](https://github.com/Blackemage "Blackemage")
 
 [![Solo Leveling link](https://wallpapercave.com/wp/wp5460419.jpg "Solo")](https://www.pontofrio.com.br/solo-leveling-volume-03-full-color-1545607749/p/1545607749?utm_medium=cpc&utm_source=bing_ads&IdSku=1545607749&idLojista=152891&gclid=5bf0e98a60ac1ed4df928dad42b5a2f0&gclsrc=3p.ds&&utm_campaign=3P_smart-shopping-bing-teste&msclkid=5bf0e98a60ac1ed4df928dad42b5a2f0)
